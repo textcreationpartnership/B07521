@@ -1,0 +1,706 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gabriels salutation to Marie. Made by Iames Cockburne..</title>
+            <author>Cockburne, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1605</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07521</idno>
+            <idno type="STC">STC 5460.4</idno>
+            <idno type="STC">ESTC S91474</idno>
+            <idno type="EEBO-CITATION">60449153</idno>
+            <idno type="OCLC">ocm 60449153</idno>
+            <idno type="VID">181237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181237)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2182:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gabriels salutation to Marie. Made by Iames Cockburne..</title>
+                  <author>Cockburne, James.</author>
+                  <author>Stirling, William Alexander, Earl of, 1567 or 8-1640.</author>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Charteris Printer to the Kings most Excellent Majestie.,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>An. Dom. MDCV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        [1605]..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Printers' device on t.p. (McK. 307[alpha]).</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Dedication to "Ieane Hammiltone, Ladie Skirling" is dated "From Cambusnethane the xxv of December".</note>
+                  <note>Verse  "To the author" signed: W.A. of Menstrie [i.e. William Alexander, afterwards Earl of Stirling].</note>
+                  <note>Imperfect: print bleeding and show-through with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  Blessed Virgin, Saint --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181237:1" rendition="simple:additions"/>
+            <pb facs="tcp:181237:1" rendition="simple:additions"/>
+            <p>GABRIELS SALVTATION TO MARIE.</p>
+            <p>MADE BY IAMES COCKBVRNE.</p>
+            <q>
+               <p>Ingreſſus igitur Angelus ad eam, dixit, Aue gratìs dilecta, do<g ref="char:EOLhyphen"/>minus tecum eſt, benedicta tu inter mulieres.</p>
+               <bibl>Luc. 1.28.</bibl>
+            </q>
+            <figure>
+               <figDesc>printer's device of Henry Charteris being used by Robert Charteris (McKerrow 307), representing the embodiment of Justice and Religion</figDesc>
+               <head>IVSTITIA. RELIGIO.</head>
+               <q>SVVM CVIQVE</q>
+               <q>DEVM COLE</q>
+               <q>HIS SVFFVLTA DVRANT.</q>
+               <byline>HC</byline>
+            </figure>
+            <p>EDINBVRGH PRINTED BY ROBERT CHARTERIS Printer to the Kings moſt Excellent Majeſtie. <hi>An. Dom. MDCV.</hi>
+            </p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:181237:2"/>
+            <head>TO THE AVTHOR.</head>
+            <l>GO proſecute that ſacred courſe of thine,</l>
+            <l>And vſe the ſubiect that's vnuſde too long.</l>
+            <l>The frutefull treaſures of a rich Ingyne,</l>
+            <l>That's ſpent approuing right diſprouing vvrong,</l>
+            <l>May make diuinitie ſeeme more diuine:</l>
+            <l>Whilst by a rauiſhde ſoule diuinelie ſong:</l>
+            <l>This in all myndes doth great delight infuſe,</l>
+            <l>To heare things heauenlie of an heauenlie muſe.</l>
+            <closer>
+               <signed>W. A. of Menſtrie.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:181237:2"/>
+            <head>TO THE HONOVRABLE LADIE OF HIGHEST HOPE MISTRESSE Ieane Hammiltone, Ladie Skirling.</head>
+            <p>HOnourable Ladie, hauing nothing of vvorth to preſent your Ladiſhippe, I haue preſumde to offer to the Schryne of your gratious clemencie the humble ſacrifice of my deuote ſinceritie: vvhereby I haue bevvrayed rather a vvill to obey, then any skill to deſerue your Ladiſhips protection. For (vvell I vvotte) theſe fevv diſordered lynes are too vveake a prop to beare the burthene of your al-fleing fame. Yet calling to mynde your Ladiſhips vvorthie diſ<g ref="char:EOLhyphen"/>poſition, I am perſvvaded my attempts vvill rather be buryed in ſi<g ref="char:EOLhyphen"/>lence, nor ſmyled at vvith diſdaine, and the rather be bucaus I am obligate your Ladieſhips in all devvties euer and euer.</p>
+            <closer>
+               <dateline>From Cam<g ref="char:EOLhyphen"/>buſnethane <date>the xxv of December.</date>
+               </dateline>
+               <signed>Iames Cockburne.</signed>
+            </closer>
+         </div>
+         <div type="invocation">
+            <head>INVOCATION.</head>
+            <l>WHat tyme the Cock vvith vvyde diſplayed vving</l>
+            <l>Did beate his breast, and then proclame the day:</l>
+            <l>His peirſing note vnto my thoughts did bring</l>
+            <l>My devvties all, and firſt hovv I ſhould pray.</l>
+            <l>Then on my knees I turnde me vvhere I lay,</l>
+            <l>With mourning ſpeech euen thus I did begin:</l>
+            <l>O Lord, I thee beſeech thy iuſtice ſtay:</l>
+            <l>Call not to mynde the lyfe I liued in.</l>
+            <l>Grant me thy spirite that I may rightlie rin</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nto that Lambe that did thine regor meaſe,</l>
+            <l>To off<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r thee by him for higheſt ſin</l>
+            <l>A broken heart for burning ſacrifyce:</l>
+            <l>Then I beſought that all the three in one,</l>
+            <l>The vvorke vvould bleſſe my pen had vndergone.</l>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:181237:3"/>
+            <head>TO THE HONOVR<g ref="char:EOLhyphen"/>ED LADIE OF HIGHEST HOPE MISTRESSE IEANE HAM<g ref="char:EOLhyphen"/>miltone Ladie Skirling.</head>
+            <lg>
+               <l>NOT to the vvorldling vvaltring in his vvealth,</l>
+               <l>Nor to the vſurer recounts his gaine:</l>
+               <l>Not to the ſicke, vvhoſe thoght is on his health,</l>
+               <l>Nor to the inſolent of lyfe prophane:</l>
+               <l>Not to the ignorant of brutiſh braine,</l>
+               <l>Nor to the ſtupide Stoick vvill I ſend thee:</l>
+               <l>Not to the learnde, vvhoſe knovvledge vvith diſdaine</l>
+               <l>Will ſcorne the Poet that ſo lovvrdlie pende thee:</l>
+               <l>Not vnto babes, vvhoſe age cannot defend thee,</l>
+               <l>Nor ſiluer-ſeeking Minſtrels for to ſing:</l>
+               <l>Not vnto careles men, vvho vvhen they end thee,</l>
+               <l>Vncloſde vvill thee vvithin ſome vvindovv ſling:</l>
+               <l>But to a Ladie ſvveet I vvill thee offer,</l>
+               <l>Who hauing reade thee, cloſlie vvill thee coffer.</l>
+            </lg>
+            <lg>
+               <l>THEN faireſt faire, vvhoſe matchles maners mylde,</l>
+               <l>And hautie thoughts dimerites high affection:</l>
+               <l>Who might haue beene the mother of that Childe,</l>
+               <l>If any Gentile had beene in election.</l>
+               <l>But ſince it is (I ſpeake it vvith correction)</l>
+               <l>Thou art no Ievv, but in the Ievv indented</l>
+               <l>By grace, loue, mercie and by free adoption</l>
+               <l>Of that great God our miſerie preuented:</l>
+               <l>Then praiſe his Name the vvay ſo vvell inuented,</l>
+               <l>Praiſe thou the ſpirite that ſanctified the birth,</l>
+               <l>Praiſe Ieſus Chriſt ſo freelie that conſented</l>
+               <l>To cloath his god-hoode vvith the filthie earth:</l>
+               <l>Praiſe all the three, they onely craue Peccaui,</l>
+               <l>Changde hopeles Eua in an happie Aue.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="salutation">
+            <pb facs="tcp:181237:3" rendition="simple:additions"/>
+            <head>GABRIELL HIS SA<g ref="char:EOLhyphen"/>LVTATION TO MARIE.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>OVT from the orders of the Angels all</l>
+               <l>Sings holie hymnes about the throne of grace,</l>
+               <l>The Lord commands to come vnto his call</l>
+               <l>The winged Gabriell, ſtraight to embrace</l>
+               <l>An happie charge for Eues vnhappie race:</l>
+               <l>Who ſince hir husbands fall had lyen within</l>
+               <l>The foule alluring baytes of filthie ſin.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Swiftlie he came, ſweetlie the Lord did ſay,</l>
+               <l>Thou that hes oft my meſſage borne in yre</l>
+               <l>Kings to deſtroy, and countries did deny</l>
+               <l>My god-hoode great, with hote conſuming fyre:</l>
+               <l>Go now in peace, let all thy rich attyre</l>
+               <l>Be Azure hew, bright ſtarres therein thou fix,</l>
+               <l>I will my juſtice with my mercie mix.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>I will redeeme, recall, I will reclame,</l>
+               <l>Not by deſert, but by adoption;</l>
+               <l>Not for their merites but my glories Name,</l>
+               <l>No not compelde, but at my option</l>
+               <l>The houſe of Iacob by my onelie Sonne,</l>
+               <l>Borne of a Mayde, and the beleeuers all</l>
+               <l>That breathes beneath my euer-mouing Ball.</l>
+            </lg>
+            <pb facs="tcp:181237:4"/>
+            <lg n="4">
+               <head>4.</head>
+               <l>I will perfite my promiſe made indeede</l>
+               <l>To the firſt man through facilnes that fell:</l>
+               <l>That his begot ſhould bruſe the ſerpents head,</l>
+               <l>Whoſe birth in bewtie ſhould the reſt excell,</l>
+               <l>Then where that Virgine reſts I will thee tell,</l>
+               <l>Of all the Tribes that I haue taine for choſe,</l>
+               <l>The famous Nazareth doth her encloſe.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Pure are her thoughts, chaſte are her actions all</l>
+               <l>Firme is her faith, and feruentlie doth pray:</l>
+               <l>Diuine in Spirite, deuote on me to call:</l>
+               <l>Reſolu'd in heart, at euerie houre to pay</l>
+               <l>The death her dew, or yet content to ſtay:</l>
+               <l>So are her vertues knowne, ſo flyes her fame,</l>
+               <l>Betrothde ſhe is, bleſt Marie heght her name.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Salute the mayde with humble dewties dew,</l>
+               <l>Diſcharge my charge with reuerence and feare:</l>
+               <l>Seene ſhall it be (although it ſeeme vntrew)</l>
+               <l>That of my Sonne ſhe is the mother deare:</l>
+               <l>For when with glorie great thou drawes neare</l>
+               <l>And warbles forth thy voice, thou ſhall perceaue</l>
+               <l>The holie Spirite the Sauiour conceaue.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Thus ſaid the Lord, when Eoles windie Fanne</l>
+               <l>The weeping dew from tender trees had rent,</l>
+               <l>And when the horned-Moone with viſage wanne</l>
+               <l>Her borrowed light had back to Tytan ſent,</l>
+               <l>That all the night before he had her lent:</l>
+               <l>And this he ſaid, while all the hoſte of heauen</l>
+               <l>Proclaimde his glore for ſuch commiſſion giuen.</l>
+            </lg>
+            <pb facs="tcp:181237:4"/>
+            <lg n="8">
+               <head>8.</head>
+               <l>And hauing ſaid, his armes abroad he threw,</l>
+               <l>And bleſt the meſſinger before him lay:</l>
+               <l>Then ſilent ſat, away the Angell flew,</l>
+               <l>And in the Aire his wings did wyde diſplay:</l>
+               <l>He claue the cloudes and cut the vapors gray,</l>
+               <l>He made the heauens admire, the waters wonder,</l>
+               <l>To ſee his glore, and heare his thuds of thunder.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>With holie Canticles and hymnes he ſings</l>
+               <l>The ioyfull newes of mans ſaluation,</l>
+               <l>In flames of fyre were grauen betweene his wings</l>
+               <l>The Birth, the Buriall, and the Paſſion</l>
+               <l>The Death, the Ryſing and Conception,</l>
+               <l>Of Ieſus Chriſt, yea and the totall ſumme</l>
+               <l>Of all his wondrous works that were to come.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>Dronke with delights, ſweete Nazareth he ſoght,</l>
+               <l>That place he compaſt thryfe aroud and ouer,</l>
+               <l>In Maries preſence ſhortlie is he broght,</l>
+               <l>Graue was his grace, while he on wing did houer,</l>
+               <l>At laſt his heauen-borne ſight he did vncouer:</l>
+               <l>And with a ſhudder all the houſe he ſpangled,</l>
+               <l>With twinkling dew vnto his plumes were tangled.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>Amazde at firſt, but not greatlie agaſt,</l>
+               <l>To ſee his glorie great, ſhe changed hew:</l>
+               <l>A bluſhing rednes ſwiftlie came and paſt</l>
+               <l>And dayntilie her whitenes did ſubdew</l>
+               <l>The lightning rayes that from her eye-lids flew,</l>
+               <l>When ſodaine ioy made tumbling teares ouerflow,</l>
+               <l>Would ſoone haue ſet an heape of hearts on low.</l>
+            </lg>
+            <pb facs="tcp:181237:5"/>
+            <lg n="12">
+               <head>12.</head>
+               <l>The firſt ſeene ſigne of her trew chaſtitie</l>
+               <l>Round fleeting flew, and cannopyed her skinne,</l>
+               <l>Two frothie globes of equall quantitie</l>
+               <l>Playde on her breaſt, with vaynes blew, bluſhing, thin:</l>
+               <l>Her tempting mouth aboue her dimpled chin,</l>
+               <l>Her rankes of pearle, her halfe vp-ſpreading Roſes</l>
+               <l>Still other kiſt, while ſtill each other cloſes.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>Betweene the branches of her bodie lay</l>
+               <l>Great Egypts wonders in the holie Print:</l>
+               <l>Whereon ſhe reade, and hauing reade would ſtay</l>
+               <l>To meditate, how Moſes meeke was ſent</l>
+               <l>To that proud Prince, who neuer would repent,</l>
+               <l>Till all his Chariotes, wheeles and Aſſle trees</l>
+               <l>Indented were with ſandes amidſt the ſeyes.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Whiles would ſhe turne and ouer-turne the leafe,</l>
+               <l>Whiles grauelie gather vp ſome ſentence darke:</l>
+               <l>Whiles ſadlie ſit twixt doubting and beleefe,</l>
+               <l>How the firſt age was cloſde within an Arke:</l>
+               <l>Whiles with her foremeſt ioynt ſhe would remarke</l>
+               <l>The trimbling ſacrifice that Abram old</l>
+               <l>Made of his tender Sonne with courage bold.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>At laſt her heart did kindle vp her ſpirite:</l>
+               <l>Her ſpirite commanded both her knees to bow.</l>
+               <l>On yeelding knees the Lord ſhe did intreate,</l>
+               <l>Her pithie prayers pure he would allow,</l>
+               <l>Which in his preſence there ſhe did avow:</l>
+               <l>Deſyring that in heart he would reſolue</l>
+               <l>The apprehenſions high ſhe did reuolue.</l>
+            </lg>
+            <pb facs="tcp:181237:5"/>
+            <lg n="16">
+               <head>16.</head>
+               <l>What meanes the brough ſo round about her hang,</l>
+               <l>Whoſe glancing rayes <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ew Opall changing hewes?</l>
+               <l>What meanes the winged ſpirite ſo ſweetlie ſang,</l>
+               <l>The ſecond Ad<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with ioyfull newes?</l>
+               <l>What boy it is my <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ped ſpirite <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?</l>
+               <l>With Angels eyes, what <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe words of mirth</l>
+               <l>Glorie to God, and peace to <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>At theſe her words her <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, her <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>His beauties blaze forbade her to admire</l>
+               <l>For loe the ſanct, his meſſage to <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>fold</l>
+               <l>Proclamde theſe <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ggied words with <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>yling cheare,</l>
+               <l>Hayle Virgine pure, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dauids daughter deare,</l>
+               <l>Hayle well of <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>The Lambe <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>Hayle Marie mylde repleniſhed with grace,</l>
+               <l>Beloued of God, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of all the <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>That of the bleeting Eues of Adams race,</l>
+               <l>This onelie bleſſing great <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ngs to thee:</l>
+               <l>Then to diſcharge thi message giuen to mee,</l>
+               <l>I bleſſe thy actions all, I bleſſe thy name,</l>
+               <l>I bleſſe that bleſſed babe ſprings of thy wambe.</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>The holie, happie ſalutation giuen,</l>
+               <l>New admirations through her fenſes ran,</l>
+               <l>With thoughts confuſde and ſtented eyes to heuaen</l>
+               <l>Vnto the winged Spirite ſhe thus began</l>
+               <l>Am I a mother neuer knew a man?</l>
+               <l>Or with the ſcornefull maydes ſhall I be loathed,</l>
+               <l>Whoſe onelie fault is this, I was betrothed.</l>
+            </lg>
+            <pb facs="tcp:181237:6"/>
+            <lg n="20">
+               <head>20.</head>
+               <l>Free flees my thoughts, vnſpotted is my fame,</l>
+               <l>I loath all companie that may allure,</l>
+               <l>I ballance not my pleaſures with my ſhame:</l>
+               <l>With Iepthes girle I liue a Virgine pure,</l>
+               <l>I ſcorne to be enrold as Sichems hure:</l>
+               <l>Therefore the Lord in his appoynted day</l>
+               <l>Will grant ſaluation to this tent of clay.</l>
+            </lg>
+            <lg n="21">
+               <head>21.</head>
+               <l>I neuer went to ſee nor to be ſeene,</l>
+               <l>To Tymbrell ſound I neuer caroll ſong:</l>
+               <l>I neuer danced in Cabinet nor greene,</l>
+               <l>Short paſſages, nor mouing Meaſures long,</l>
+               <l>Earings of gold in treaſſe neuer hang</l>
+               <l>Lyke twinkling ſtars, I neuer learnde to ſmyle</l>
+               <l>With rolling eyes, nor <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rging <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>earde ſtyle.</l>
+            </lg>
+            <lg n="22">
+               <head>22.</head>
+               <l>I neuer ſhew my ſnow-white ſwelling globes,</l>
+               <l>To giue the inſolent the more <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>yte</l>
+               <l>I neuer walked in ſilken ſhyning robes,</l>
+               <l>The feeders: of our fa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill appetyte:</l>
+               <l>Dittayes of loue I neuer did indyte,</l>
+               <l>I neuer vſde perfumde nor paynted face,</l>
+               <l>Nor <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ted Courtlie beck with minſing pace.</l>
+            </lg>
+            <lg n="23">
+               <head>23.</head>
+               <l>No Marie, no, thy ſpotles thoughtes are knowne,</l>
+               <l>Thy faith is ſeene to the al-ſeeing eye:</l>
+               <l>Through all the earth thy bleſſings ſhall be ſhowne,</l>
+               <l>Then feare thou not reprochfull in fa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ie,</l>
+               <l>The Spirite in God ſhall ouer-ſhadow thee:</l>
+               <l>By him thou ſhalt conceaue that Holie one,</l>
+               <l>That ſit for euer ſhall on Dauids throne.</l>
+            </lg>
+            <pb facs="tcp:181237:6"/>
+            <lg n="24">
+               <head>24.</head>
+               <l>Great ſhall he be, his Kingdome ſhall not moue,</l>
+               <l>Ouer all the houſe of lacob ſhall he ſway:</l>
+               <l>All power ſhall be granted him aboue,</l>
+               <l>The corners of the earth ſhall him obey,</l>
+               <l>The Gentile Kings to him ſhall tribute pay</l>
+               <l>Vpon their knees in honour of his birth,</l>
+               <l>At Bethlem, with gold, incenſe and mirth.</l>
+            </lg>
+            <lg n="25">
+               <head>25.</head>
+               <l>Heauens ſoldiers ſhall ſcumme the topleſſe skyes,</l>
+               <l>And ſound the phamphere of his fame on hie:</l>
+               <l>Preiſts, Propheits, Patriarks with holie cryes,</l>
+               <l>That night about poore ſheepherds heads ſhall flie:</l>
+               <l>The Angels and Archangels in degrie,</l>
+               <l>And winged Cherebins with warbling voice,</l>
+               <l>Round in a ring ſhall mightelie reioyce.</l>
+            </lg>
+            <lg n="26">
+               <head>26.</head>
+               <l>With all the bleſſed troupes Hyerarchies,</l>
+               <l>As powers, thrones and dominations:</l>
+               <l>Bleſt Serphins and Principalities,</l>
+               <l>Victorious Martyres with immortall Crownes,</l>
+               <l>Young innocents pure virgine whoſe renownes</l>
+               <l>Gainſt all aſſaults haue keept their chaſtitie,</l>
+               <l>As mid-wyue skild that office ſhall ſupplie.</l>
+            </lg>
+            <lg n="27">
+               <head>27.</head>
+               <l>Now while theſe melodies ſhall mountaines moue,</l>
+               <l>And euerie Angell ſhall another leade:</l>
+               <l>This wonder wondrous for to approue,</l>
+               <l>Each ſheepherd ſhall tune on an oaten reade,</l>
+               <l>With lylting lowde faſt home-ward ſhall they ſpeede:</l>
+               <l>And cauſe the countrie people all conueene,</l>
+               <l>To praiſe the Lord, for wonders by them ſeene.</l>
+            </lg>
+            <pb facs="tcp:181237:7"/>
+            <lg n="28">
+               <head>28.</head>
+               <l>Then ſhall the Ocean tumble vp her ſand,</l>
+               <l>And preaſe her bounds to breake, thy Sonne to ſee:</l>
+               <l>The wandring ſtarres ſhall twinkling ouer him ſtand,</l>
+               <l>Which was the guyde to Herodes Princes three:</l>
+               <l>The fyrie lampe of heauens blew Cannopie</l>
+               <l>Leſt he be laſt his ſeruice to aduance,</l>
+               <l>Shall giue thy babe good-morrow with a glance.</l>
+            </lg>
+            <lg n="29">
+               <head>29.</head>
+               <l>All fleſh ſhall fold, all Nations ſhall haue peace,</l>
+               <l>Sybillaes propheſies no faith ſhall haue.</l>
+               <l>By him the Delphin Oracle ſhall ceaſe,</l>
+               <l>The Gentiles gods no longer ſhall deceaue:</l>
+               <l>And if thou would of me this queſtion craue,</l>
+               <l>What name he heght theſe errours ſhall expell?</l>
+               <l>Manie they are, but firſt Immanuell.</l>
+            </lg>
+            <lg n="30">
+               <head>30.</head>
+               <l>The Gentiles hope, and Iacobs morning ſtarre,</l>
+               <l>The rocke of rayne, and the corner ſtone:</l>
+               <l>The flower of Ieſſe, that doth ſent ſo farre,</l>
+               <l>The trew-Meſſias and that holie one:</l>
+               <l>The Prince of peace, the Reſurrection</l>
+               <l>A Chriſt, a Ieſus and a Sauiour,</l>
+               <l>A Lambe, a Silo and a great Paſtour.</l>
+            </lg>
+            <lg n="31">
+               <head>31.</head>
+               <l>The furniſher of faith, the mercie ſait,</l>
+               <l>The Sanctuarie great of mans refuge,</l>
+               <l>The Lords annoynted and his rewler great</l>
+               <l>The word, the way, the Prophete and the Iudge:</l>
+               <l>The Ruther of the Arke in the deludge:</l>
+               <l>The bread of lyfe, the Alpha and the end,</l>
+               <l>The Doue that Noe in his Ambaſſage ſend.</l>
+            </lg>
+            <pb facs="tcp:181237:7"/>
+            <lg n="32">
+               <head>32.</head>
+               <l>The well of lyfe the bread ſent down from heauen,</l>
+               <l>His Fathers Image bewtifull and faire,</l>
+               <l>Brightnes it ſelfe, to whome all glore is giuen:</l>
+               <l>The firſt begotten and his Fathers Aire:</l>
+               <l>The ſerpent ſtrong the helles all-ſpuilzier</l>
+               <l>The biſhoppe of our ſoules and brother deare,</l>
+               <l>Bleſt be thy bellie ſuch a babe doth beare.</l>
+            </lg>
+            <lg n="33">
+               <head>33.</head>
+               <l>Now while this winged Spirite had told this tale,</l>
+               <l>The ſweete alluring lookes and comelie grace,</l>
+               <l>The mayde that at his entrie ſeemed pale</l>
+               <l>Shynde lyke the birneiſt beames of Tytans face,</l>
+               <l>Dread left her thoghts, feare gaue high ioy the place,</l>
+               <l>Her eyes, eares, heart, and tongue were all content</l>
+               <l>Vnto his happie charge to giue conſent.</l>
+            </lg>
+            <lg n="34">
+               <head>34.</head>
+               <l>Thou the Creator of all creature:</l>
+               <l>That formed the globe, the morning and the nights,</l>
+               <l>That ſet the ſeyes, and made the aire ſo pure,</l>
+               <l>That ſpangled all the heauens with fyrie lights,</l>
+               <l>Confirme thy promiſe made in all our ſights:</l>
+               <l>And let thy hand-mayde finde that happie bleſſing</l>
+               <l>Which Iſraels Dames could not obtain by wiſhing.</l>
+            </lg>
+            <lg n="35">
+               <head>35.</head>
+               <l>With hyſſope purge and purifie my heart,</l>
+               <l>Direct thy Spirite to cloath me with his wings:</l>
+               <l>Thy graces great on me, pure me impart,</l>
+               <l>Mount vp my earthlie thoghts to heauenlie things:</l>
+               <l>And ſince that I euen of the King of Kings,</l>
+               <l>The mother am, Lord lift my voice on hie,</l>
+               <l>With ſome ſweete ſong thy name to magnifie.</l>
+            </lg>
+            <pb facs="tcp:181237:8"/>
+            <lg n="36">
+               <head>36.</head>
+               <l>As this he ſaid, the ſweete renewing Ghoſt</l>
+               <l>Cled with a cloud begouth to doe his dew,</l>
+               <l>With glorie great he fild the houſe almoſt,</l>
+               <l>Like to a Turtle white his Image grew:</l>
+               <l>Betwene the Angell and the mayd he flew</l>
+               <l>With ſoft, ſweete, ſober courſe, and then did light</l>
+               <l>Betwene her lips, then vaniſht out of ſight:</l>
+            </lg>
+            <lg n="37">
+               <head>37.</head>
+               <l>O far-fetcht fainting breath, ô chiuering chin,</l>
+               <l>O flightring heart, and eyes entombe in teares,</l>
+               <l>O hollow warbling throate, now now begin</l>
+               <l>With neuer tyring tune to fill the eares</l>
+               <l>Of euerie creature my bleſſing heares:</l>
+               <l>O happie ſoule, ſee thou theſe verſes warpe,</l>
+               <l>Lyke theſe ſometymes were ſung to Dauids Harpe.</l>
+            </lg>
+            <floatingText xml:lang="eng" type="song">
+               <body>
+                  <head>MARIES SONG.</head>
+                  <lg>
+                     <l>THE Heauens eternall al-foreſeeing King,</l>
+                     <l>Our thoughts deepe ſearcher, Natures father great</l>
+                     <l>The worlds ſtrong Mouer, founder of all thing</l>
+                     <l>Within the round and the infernall pit:</l>
+                     <l>Strange graces hes he granted vnto me,</l>
+                     <l>That without ſin I ſhould ſing lullabie.</l>
+                  </lg>
+                  <lg>
+                     <l>From high he hes beheld my pure eſtate,</l>
+                     <l>And made my flightring Spirite his praiſe proclame.</l>
+                     <l>His kindnes hes no periode nor date,</l>
+                     <l>To all him loues, all holie be his name,</l>
+                     <l>The proud he hes deſpyſed for loue of me,</l>
+                     <l>And bids me ſing on high ſweete lullabie.</l>
+                  </lg>
+                  <pb facs="tcp:181237:8"/>
+                  <lg>
+                     <l>He hes deiect the mightie from their thrones,</l>
+                     <l>And mounted humble hearts of pooreſt ſpirite:</l>
+                     <l>Refreſht he hes the hunger-ſteruing bones</l>
+                     <l>Of ſimple ſoules lay begging by the ſtreete,</l>
+                     <l>He hes ſent downe his Angell vnto me,</l>
+                     <l>And bids me rock the babe with lullabie.</l>
+                  </lg>
+                  <lg>
+                     <l>That happie promiſe now he will fulfill,</l>
+                     <l>Made in ſweete Edens glauncing gardene gay</l>
+                     <l>To Abram on the ſacrificing hill.</l>
+                     <l>To him whoſe Harpe draue Saules euill ſpirit away:</l>
+                     <l>He hes reſolude the mother I ſhould be</l>
+                     <l>To his deare deare, and ſing ſweete lullabie.</l>
+                  </lg>
+                  <lg>
+                     <l>For which ſweete ſong the gwerdone ſhall be giuen,</l>
+                     <l>When hopeleſſe age hes poynted out my end,</l>
+                     <l>The fourth place in the Diamantiue heauen,</l>
+                     <l>Where troupes of winged ſpirites ſhall me attend:</l>
+                     <l>And on the earth each age ſhall ſpeake of me,</l>
+                     <l>For ſinging their ſweete Sauiours lullabie.</l>
+                  </lg>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
